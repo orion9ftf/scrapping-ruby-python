@@ -1,4 +1,4 @@
-# Web Scrapping with Ruby on Rails and Python
+# Web Scraping with Ruby on Rails and Python
 
 * Ruby version:
 ```rb
