@@ -1,24 +1,22 @@
-# README
+# Web Scrapping with Ruby on Rails and Python
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version:
+```rb
+ruby "3.1.2"
+```
 
-Things you may want to cover:
+* Rails version:
+```rb
+gem "rails", "~> 7.0.4", ">= 7.0.4.1"
+```
 
-* Ruby version
+* Database Postgresql version:
+```rb
+gem "pg", "~> 1.1"
+```
 
-* System dependencies
+* Web server:
+```rb
+gem "puma", "~> 5.0"
+```
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
